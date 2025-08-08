@@ -22,6 +22,6 @@ A simple RESTful API for user management with Ngrok integration for public acces
 ## Setup
 The following libraries are required:
 
-Flask: A lightweight web framework for Python.
-pyngrok: A Python wrapper for ngrok, which creates secure tunnels to expose local servers to the internet.
-flask-ngrok: Integrates ngrok with Flask applications.
+- Flask: A lightweight web framework for Python.
+- pyngrok: A Python wrapper for ngrok, which creates secure tunnels to expose local servers to the internet.
+- flask-ngrok: Integrates ngrok with Flask applications.
